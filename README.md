@@ -3,7 +3,16 @@ Split .xlsx workbook into separate .csv files based on the sheets within the wor
 
 XLSX_Splitter.m is a MATLAB script for spliting .xlsx workbooks into separate .csv files based on the sheets within the workbook.
 
-## Using the script
+## Using the Script
+
+1. Open XLSX_Splitter.m
+    * Ensure minimum MATLAB version 2019b
+2. Hit 'Run'
+3. Select the .xlsx file that you want to split using the GUI
+4. That's it!
+
+
+## Developer Information
 
 Built using MATLAB R2020a
 
