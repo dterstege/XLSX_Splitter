@@ -10,6 +10,8 @@ XLSX_Splitter.m is a MATLAB script for spliting .xlsx workbooks into separate .c
 2. Hit 'Run'
 3. Select the .xlsx file that you want to split using the GUI
 4. That's it!
+     * .csv files will populate within the same directory as the .xlsx file being split
+     * .xlsx file will not be altered during this process
 
 
 ## Developer Information
