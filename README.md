@@ -1,10 +1,9 @@
 # XLSX_Splitter
 Split .xlsx workbook into separate .csv files based on the sheets within the workbook
 
-AlignTimeSeries.m is a MATLAB function for the alignment of pairs of time-series datasets collected at different framerates over the same period of time.
+XLSX_Splitter.m is a MATLAB script for spliting .xlsx workbooks into separate .csv files based on the sheets within the workbook.
 
-The function indexes through the longer dataset.  For each timestamp in the longer dataset, the closest timestamp from the shorter dataset will be identified and its associated data will be aligned to the longer dataset.  This effectively stretches the shorter timeseries without interpolation - which is beneficial when working with binary data.
-
+# Using the script
 
 Built using MATLAB R2020a
 
